@@ -16,14 +16,14 @@ CRUD Movies Go is a simple Go web application that provides endpoints to perform
 Before running the application, ensure you have the following installed:
 
 - Go (version 1.16 or higher)
-- Gorilla Mux (`go get -u github.com/gorilla/mux`)
+- GoFr Framework - go get gofr.dev
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/CRUD-Movies-Go.git
+   git clone https://github.com/Snigdh27/CRUD-Movies-Go.git
 
 2. Change into project directory :
    cd CRUD-Movies-Go
