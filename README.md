@@ -1,7 +1,7 @@
 # gofr_crud_operations
 # CRUD Movies Go
 
-CRUD Movies Go is a simple Go web application that provides endpoints to perform CRUD (Create, Read, Update, Delete) operations on a collection of movies. It uses the Gorilla Mux router for handling HTTP requests.
+CRUD Movies Go is a simple Go web application that provides endpoints to perform CRUD (Create, Read, Update, Delete) operations on a collection of movies. It uses the Gofr Framework for handling HTTP requests.
 
 ## Features
 
