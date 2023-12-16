@@ -3,16 +3,6 @@
 
 CRUD Movies Go is a simple Go web application that provides endpoints to perform CRUD (Create, Read, Update, Delete) operations on a collection of movies. It uses the Gorilla Mux router for handling HTTP requests.
 
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Sample Requests](#sample-requests)
-- [License](#license)
-
 ## Features
 
 - **Get all movies:** Retrieve a list of all movies.
