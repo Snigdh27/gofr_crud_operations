@@ -9,6 +9,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
+	"gofr.dev/pkg/gofr"
 )
 
 type Movie struct {
