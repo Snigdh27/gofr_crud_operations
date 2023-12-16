@@ -46,10 +46,10 @@ Before running the application, ensure you have the following installed:
 2. The server will start at http://localhost:8000.
 
 ## Endpoints
- -> GET /movies: Get a list of all movies.
- -> GET /movies/{id}: Get details of a specific movie by ID.
- -> POST /movies: Create a new movie.
- -> PUT /movies/{id}: Update details of a movie by ID.
- -> DELETE /movies/{id}: Delete a movie by ID.
+ 1. GET /movies: Get a list of all movies.
+ 2. GET /movies/{id}: Get details of a specific movie by ID.
+ 3. POST /movies: Create a new movie.
+ 4. PUT /movies/{id}: Update details of a movie by ID.
+ 5. DELETE /movies/{id}: Delete a movie by ID.
 
 POSTMAN API LINK - https://api.postman.com/collections/31368503-c0c26eab-d729-4e13-b0af-e3d03b280c2c?access_key=PMAT-01HHS8C0HAT1B8GMFXE0PGR5JM
